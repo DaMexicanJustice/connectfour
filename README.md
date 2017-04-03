@@ -1,14 +1,21 @@
+# Unity handin 
+Hand in for Unity class.
+A ["connect four"](https://www.mathsisfun.com/games/connect4.html) game.
+## Parts
+Unity visualization,
+An AI,
+Game master,
 
-# Unity Visualization
+### Unity Visualization
 
 
-# Interface 1
+### Interface 1
 
 public int Place( int[,] board );
 
 public void SetTeam(int t);
 
-# Interface 2
+### Interface 2
 
 public bool CheckGameState();
 
